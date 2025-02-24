@@ -2,8 +2,7 @@ manifestVersion: 1
 id: hollat-bytestash
 name: ByteStash
 tagline: Self-hosted code snippets manager
-icon: https://raw.githubusercontent.com/jordan-dalby/bytestash/main/docs/icon.png
-category: Development
+icon: https://github.com/jordan-dalby/ByteStash/blob/main/client/public/logo512.png?raw=true
 version: "1.0.0"
 port: 5022
 description: >-
@@ -16,38 +15,13 @@ submission: https://github.com/your-username/hollat
 repo: https://github.com/jordan-dalby/bytestash
 support: https://github.com/jordan-dalby/bytestash/issues
 gallery:
-  - https://raw.githubusercontent.com/jordan-dalby/bytestash/main/docs/screenshot.png
+  - https://raw.githubusercontent.com/jordan-dalby/ByteStash/refs/heads/main/media/app-image.png
 
 releaseNotes: >-
   Initial release of ByteStash for Hollat.
 
 # This is where user inputs are defined
-dependencies:
-  - id: AUTH_USERNAME
-    name: Auth Username
-    description: Username for logging into ByteStash.
-    type: text
-    required: true
-
-  - id: AUTH_PASSWORD
-    name: Auth Password
-    description: Password for logging into ByteStash.
-    type: password
-    required: true
-
-  - id: JWT_SECRET
-    name: JWT Secret
-    description: A secure token used for authentication (generate a strong random string).
-    type: password
-    required: true
-
-  - id: TOKEN_EXPIRY
-    name: Token Expiry
-    description: How long the authentication token lasts (e.g., "2 days", "10h", "7d").
-    type: text
-    default: "24h"
-    required: true
-
+dependencies: []
 path: ""
 defaultUsername: ""
 defaultPassword: ""
