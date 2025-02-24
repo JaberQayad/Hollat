@@ -4,13 +4,23 @@ services:
     image: "ghcr.io/jordan-dalby/bytestash:latest"
     container_name: bytestash
     volumes:
-      - ${APP_DATA_DIR}/data:/data/snippets
+      - ${APP_DATA_DIR}/bytestash-snippets/data:/data/snippets
     ports:
       - 5022:5000
     environment:
-      - BASE_PATH=
-      - AUTH_USERNAME=${AUTH_USERNAME}
-      - AUTH_PASSWORD=${AUTH_PASSWORD}
-      - JWT_SECRET=${JWT_SECRET}
-      - TOKEN_EXPIRY=${TOKEN_EXPIRY}
+      # The base path for the app (Leave empty if you want the default "/")
+      - BASE_PATH=/ 
+      
+      # The username for logging in (Set a username for authentication, or leave empty for no authentication)
+      - AUTH_USERNAME=admin
+
+      # The password for logging in (Set a password for authentication, or leave empty for no authentication)
+      - AUTH_PASSWORD=admin
+
+      # Secret JWT token used for authentication. Replace with a secure, random secret.
+      - JWT_SECRET=my-very-secure-jwt-secret 
+
+      # Token expiry duration. Default is "24h". Modify as needed.
+      - TOKEN_EXPIRY=24h 
+
     restart: unless-stopped

@@ -1,27 +1,26 @@
 manifestVersion: 1
 id: hollat-bytestash
 name: ByteStash
-tagline: Self-hosted code snippets manager
+tagline: A self-hosted snippet manager for code and text
 icon: https://github.com/jordan-dalby/ByteStash/blob/main/client/public/logo512.png?raw=true
+category: Utilities
 version: "1.0.0"
 port: 5022
 description: >-
-  ByteStash is a self-hosted snippet manager for code and text. Organize and access your snippets securely.
+  ByteStash is a self-hosted snippet manager that helps you manage and organize your code and text snippets.
+  It provides easy access and secure storage for your snippets.
 
-developer: Jordan Dalby
-website: https://github.com/jordan-dalby/bytestash
-submitter: Hollat
+developer: Your Name
+website: https://your-website.com
+submitter: Your Name
 submission: https://github.com/your-username/hollat
-repo: https://github.com/jordan-dalby/bytestash
-support: https://github.com/jordan-dalby/bytestash/issues
+repo: https://github.com/your-username/hollat
+support: https://github.com/your-username/hollat/issues
 gallery:
   - https://raw.githubusercontent.com/jordan-dalby/ByteStash/refs/heads/main/media/app-image.png
-
 releaseNotes: >-
-  Initial release of ByteStash for Hollat.
-
+  - Initial release with basic authentication and snippet management features.
 dependencies: []
 path: ""
-defaultUsername: ""
-defaultPassword: ""
-
+defaultUsername: ""  # Replace with a default username, or leave empty.
+defaultPassword: ""  # Replace with a default password, or leave empty.
