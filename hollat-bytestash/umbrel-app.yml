@@ -20,8 +20,8 @@ gallery:
 releaseNotes: >-
   Initial release of ByteStash for Hollat.
 
-# This is where user inputs are defined
 dependencies: []
 path: ""
 defaultUsername: ""
 defaultPassword: ""
+
