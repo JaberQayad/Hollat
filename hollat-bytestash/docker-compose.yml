@@ -1,0 +1,16 @@
+version: '3'
+services:
+  bytestash:
+    image: "ghcr.io/jordan-dalby/bytestash:latest"
+    container_name: bytestash
+    volumes:
+      - ./bytestash-snippets/data:/data/snippets
+    ports:
+      - 5022:5000
+    environment:
+      - BASE_PATH=
+      - AUTH_USERNAME=${AUTH_USERNAME}
+      - AUTH_PASSWORD=${AUTH_PASSWORD}
+      - JWT_SECRET=${JWT_SECRET}
+      - TOKEN_EXPIRY=${TOKEN_EXPIRY}
+    restart: unless-stopped
