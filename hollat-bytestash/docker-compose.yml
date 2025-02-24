@@ -4,7 +4,7 @@ services:
     image: "ghcr.io/jordan-dalby/bytestash:latest"
     container_name: bytestash
     volumes:
-      - ./bytestash-snippets/data:/data/snippets
+      - ${APP_DATA_DIR}/data:/data/snippets
     ports:
       - 5022:5000
     environment:

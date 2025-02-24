@@ -4,7 +4,7 @@ services:
     image: pawelmalak/snippet-box:latest
     container_name: snippet-box
     volumes:
-      - ./snippet-box-data:/app/data
+      - ${APP_DATA_DIR}/snippet-box-data:/app/data
     ports:
       - 5005:5000
     restart: unless-stopped
