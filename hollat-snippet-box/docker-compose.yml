@@ -1,0 +1,13 @@
+version: '3'
+services:
+  snippet-box:
+    image: pawelmalak/snippet-box:latest
+    container_name: snippet-box
+    volumes:
+      - snippet-box:/app/data
+    ports:
+      - 5005:5000
+    restart: unless-stopped
+
+volumes:
+  snippet-box:

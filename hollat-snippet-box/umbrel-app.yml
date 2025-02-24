@@ -1,0 +1,33 @@
+manifestVersion: 1
+id: hollat-snippet-box
+name: Snippet Box
+tagline: "Manage your code snippets effortlessly."
+icon: https://raw.githubusercontent.com/pawelmalak/snippet-box/main/public/favicon.ico
+category: Development
+version: "1.0.0"
+port: 5005
+description: >-
+  Snippet Box is a self-hosted app that allows you to store and manage your favorite code snippets with ease.
+
+
+  It’s perfect for developers looking for a lightweight and efficient snippet manager.
+
+developer: Pawel Malak
+website: https://github.com/pawelmalak/snippet-box
+submitter: Hollat
+submission: https://github.com/your-username/hollat
+repo: https://github.com/pawelmalak/snippet-box
+support: https://github.com/pawelmalak/snippet-box/issues
+gallery:
+  - https://raw.githubusercontent.com/pawelmalak/snippet-box/main/public/screenshot.png
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+releaseNotes: >-
+  Initial release of Snippet Box on the Hollat App Store.  
+  - Added snippet management features  
+  - Dockerized setup for easy deployment
+
+dependencies: []
+path: "./docker-compose.yml"
+defaultUsername: ""
+defaultPassword: ""

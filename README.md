@@ -1,17 +1,45 @@
-## Umbrel Community App Store Template
+# Hollat – Unofficial UmbrelOS App Store
 
-This repository is a template to create an Umbrel Community App Store. These additional app stores allow developers to distribute applications without submitting to the [Official Umbrel App Store](https://github.com/getumbrel/umbrel-apps).
+**Hollat** is an **unofficial UmbrelOS Community App Store** created for my personal needs. Feel free to use it, but **at your own risk**. ⚠️
 
-## How to use:
+This store includes apps that I find useful and wanted to make easily accessible through UmbrelOS. It’s not affiliated with or endorsed by Umbrel.
 
-1. Start by clicking the "Use this template" button located above.
-2. Assign an ID and name to your app store within the `umbrel-app-store.yml` file. This file specifies two important attributes:
-    - `id` - Acts as a unique prefix for every app within your Community App Store. You must start your application's ID with your app store's ID. For instance, in this template, the app store ID is `sparkles`, and there's an app named `hello world`. Consequently, the app's ID should be: `sparkles-hello-world`.
-    - `name` - This is the name of the Community App Store displayed in the umbrelOS UI.
-3. Change the name of the `sparkles-hello-world` folder to match your app's ID. The app ID is for you to decide. For example, if your app store ID is `whistles`, and your app is named My Video Downloader, you could set its app ID to `whistles-my-video-downloader`, and rename the folder accordingly.
-4. Next, enter your app's listing details in the `whistles-my-video-downloader/umbrel-app.yml`. These are displayed in the umbrelOS UI.
-5. Include the necessary Docker services in `whistles-my-video-downloader/docker-compose.yml`.
-6. That's it! Your Community App Store, featuring your unique app, is now set up and ready to go. To use your Community App Store, you can add its GitHub url the umbrelOS user interface as shown in the following demo:
+---
 
+## ⚡ Disclaimer
 
-https://user-images.githubusercontent.com/10330103/197889452-e5cd7e96-3233-4a09-b475-94b754adc7a3.mp4
+- This is an **unofficial** app store for UmbrelOS.  
+- Use at **your own risk** — I’m not responsible for any issues caused by installing apps from this store.  
+- Apps may not follow Umbrel’s official guidelines or standards.
+
+---
+
+## 📦 Current Apps
+
+- **Snippet Box** – Manage your code snippets effortlessly.  
+  [GitHub Repo](https://github.com/pawelmalak/snippet-box)
+
+---
+
+## 🚀 How to Add This Store to Umbrel
+
+1. Open your Umbrel dashboard.  
+2. Go to **App Store > Add Custom App Store**.  
+3. Paste the GitHub URL of this repo:  
+   `https://github.com/JaberQayad/hollat`.  
+4. Browse and install apps directly from Hollat.
+
+---
+
+## 💡 Why I Made This
+
+I created **Hollat** to simplify adding apps I personally use to my UmbrelOS setup. It’s a side project, so updates will happen when I find the time or new apps I want to include.
+
+---
+
+## 🤝 Contributions
+
+Want to suggest an app or make improvements?  
+Feel free to fork the repo and open a **Pull Request** — but remember, this store is mainly for my own use.
+
+---
