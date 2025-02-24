@@ -2,7 +2,7 @@ manifestVersion: 1
 id: hollat-snippet-box
 name: Snippet Box
 tagline: "Manage your code snippets effortlessly."
-icon: https://github.com/pawelmalak/snippet-box/blob/master/client/public/favicon.ico
+icon: https://raw.githubusercontent.com/pawelmalak/snippet-box/refs/heads/master/client/public/favicon.ico
 category: Development
 version: "1.0.0"
 port: 5005
@@ -19,10 +19,10 @@ submission: https://github.com/your-username/hollat
 repo: https://github.com/pawelmalak/snippet-box
 support: https://github.com/pawelmalak/snippet-box/issues
 gallery:
-  - https://github.com/pawelmalak/snippet-box/blob/master/.github/img/snippets.png
-  - https://github.com/pawelmalak/snippet-box/blob/master/.github/img/snippet.png
-  - https://github.com/pawelmalak/snippet-box/blob/master/.github/img/home.png
-  - https://github.com/pawelmalak/snippet-box/blob/master/.github/img/editor.png
+  - https://github.com/pawelmalak/snippet-box/blob/master/.github/img/home.png?raw=true
+  - https://github.com/pawelmalak/snippet-box/blob/master/.github/img/editor.png?raw=true
+  - https://github.com/pawelmalak/snippet-box/blob/master/.github/img/snippet.png?raw=true
+  - https://github.com/pawelmalak/snippet-box/blob/master/.github/img/snippets.png?raw=true
 releaseNotes: >-
   Initial release of Snippet Box on the Hollat App Store.  
   - Added snippet management features  
