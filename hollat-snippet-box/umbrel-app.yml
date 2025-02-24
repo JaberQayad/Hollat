@@ -2,7 +2,7 @@ manifestVersion: 1
 id: hollat-snippet-box
 name: Snippet Box
 tagline: "Manage your code snippets effortlessly."
-icon: https://raw.githubusercontent.com/pawelmalak/snippet-box/main/public/favicon.ico
+icon: https://github.com/pawelmalak/snippet-box/blob/master/client/public/favicon.ico
 category: Development
 version: "1.0.0"
 port: 5005
@@ -19,15 +19,16 @@ submission: https://github.com/your-username/hollat
 repo: https://github.com/pawelmalak/snippet-box
 support: https://github.com/pawelmalak/snippet-box/issues
 gallery:
-  - https://raw.githubusercontent.com/pawelmalak/snippet-box/main/public/screenshot.png
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://github.com/pawelmalak/snippet-box/blob/master/.github/img/snippets.png
+  - https://github.com/pawelmalak/snippet-box/blob/master/.github/img/snippet.png
+  - https://github.com/pawelmalak/snippet-box/blob/master/.github/img/home.png
+  - https://github.com/pawelmalak/snippet-box/blob/master/.github/img/editor.png
 releaseNotes: >-
   Initial release of Snippet Box on the Hollat App Store.  
   - Added snippet management features  
   - Dockerized setup for easy deployment
 
 dependencies: []
-path: "./docker-compose.yml"
+path: ""
 defaultUsername: ""
 defaultPassword: ""
