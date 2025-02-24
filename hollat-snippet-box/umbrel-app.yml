@@ -2,7 +2,7 @@ manifestVersion: 1
 id: hollat-snippet-box
 name: Snippet Box
 tagline: "Manage your code snippets effortlessly."
-icon: https://raw.githubusercontent.com/pawelmalak/snippet-box/refs/heads/master/client/public/favicon.ico
+icon: https://raw.githubusercontent.com/pawelmalak/unraid-templates/master/templates/icons/snippet-box.png
 category: Development
 version: "1.0.0"
 port: 5005
