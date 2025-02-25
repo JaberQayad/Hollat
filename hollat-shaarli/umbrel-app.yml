@@ -1,0 +1,31 @@
+# Shaarli umbrel-app.yml
+manifestVersion: 1
+id: hollat-shaarli
+name: Shaarli
+tagline: Minimalist self-hosted bookmark manager
+icon: https://avatars.githubusercontent.com/u/8275533?v=4
+category: Productivity
+version: "0.12.0"
+port: 5023
+description: >-
+  Shaarli is a personal, minimalist, self-hosted bookmarking service.
+  Save, organize, and share your favorite links.
+developer: Shaarli Community
+website: https://shaarli.readthedocs.io/
+submitter: Hollat
+submission: https://github.com/your-repo/hollat-shaarli
+repo: https://github.com/shaarli/Shaarli
+support: https://github.com/shaarli/Shaarli/issues
+gallery:
+  - https://raw.githubusercontent.com/kalvn/Shaarli-Material/master/screenshots/showcase.png
+  - https://github.com/kalvn/Shaarli-Material/blob/master/screenshots/configuration.png?raw=true
+  - https://github.com/kalvn/Shaarli-Material/blob/master/screenshots/settings.png?raw=true
+  - https://github.com/kalvn/Shaarli-Material/blob/master/screenshots/showcase.png?raw=true
+releaseNotes: >-
+  Initial release for Hollat Umbrel Community App Store.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+
+# End of hollat-shaarli/umbrel-app.yml
