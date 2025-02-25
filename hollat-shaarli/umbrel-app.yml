@@ -6,7 +6,7 @@ tagline: Minimalist self-hosted bookmark manager
 icon: https://avatars.githubusercontent.com/u/8275533?v=4
 category: Productivity
 version: "0.12.0"
-port: 5023
+port: 8484
 description: >-
   Shaarli is a personal, minimalist, self-hosted bookmarking service.
   Save, organize, and share your favorite links.
