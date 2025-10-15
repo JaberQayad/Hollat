@@ -4,7 +4,7 @@ manifestVersion: 1
 id: hollat-sftpgo
 name: SFTPGo
 tagline: Fully featured SFTP server with a modern web interface
-icon: https://avatars.githubusercontent.com/u/67620845?s=200&v=4
+icon: https://sftpgo.com/assets/img/logo.png
 category: Utilities
 version: "2.5.3"
 port: 2022
@@ -19,10 +19,10 @@ submission: https://github.com/JaberQayad/hollat-sftpgo
 repo: https://github.com/drakkan/sftpgo
 support: https://github.com/drakkan/sftpgo/issues
 gallery:
-  - https://raw.githubusercontent.com/drakkan/sftpgo/main/docs/images/dashboard.png
-  - https://raw.githubusercontent.com/drakkan/sftpgo/main/docs/images/users.png
-  - https://raw.githubusercontent.com/drakkan/sftpgo/main/docs/images/settings.png
-  - https://raw.githubusercontent.com/drakkan/sftpgo/main/docs/images/logs.png
+  - https://docs.sftpgo.com/enterprise/assets/img/sftpgo%20architecture.png
+  - https://sftpgo.com/assets/img/webclient.png
+  - https://i.ytimg.com/vi/Bql1JCVFw4k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC6NM3Elby-tDpMhuYRnwjB-rWbtg
+  - https://sftpgo.com/assets/img/webadmin.png
 releaseNotes: >-
   Initial release for Hollat Umbrel Community App Store.
 dependencies: []
