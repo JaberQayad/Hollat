@@ -1,0 +1,27 @@
+manifestVersion: 1
+id: hollat-opengist
+name: OpenGist
+tagline: Self-hosted Gist service
+icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcUgXk7PatR3wMsYtRdk-6iP37r-Ux-qX9uA&s
+category: Development
+version: "1.0.0"
+port: 6157
+description: >-
+  OpenGist is a self-hosted Gist service that allows you to create and share
+  snippets of code easily. It provides a simple and intuitive web interface
+  for managing your Gists.
+developer: Thomiceli
+website: https://opengist.github.io/
+submitter: Hollat
+submission: https://github.com/JaberQayad/hollat-opengist
+repo: https://github.com/thomiceli/opengist
+support: https://github.com/thomiceli/opengist/issues
+gallery:
+  - https://opengist.io/opengist-demo.png
+  - https://opengraph.githubassets.com/846304d2c0e434c2c841a7611696d9b0ba93874335c349aa2be69f46833e15eb/thomiceli/opengist
+releaseNotes: >-
+  Initial release for Hollat Umbrel Community App Store.
+dependencies: []
+path: ""
+defaultUsername: admin
+defaultPassword: admin
