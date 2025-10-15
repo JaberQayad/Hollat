@@ -18,15 +18,24 @@ This store includes apps that I find useful and wanted to make easily accessible
 
 - **Snippet Box** – Manage your code snippets effortlessly.  
   [GitHub Repo](https://github.com/pawelmalak/snippet-box)
+- **OpenGist** – Self-hosted Gist service.  
+  [GitHub Repo](https://github.com/thomiceli/opengist)
+- **LinkSnatch** – Simple bookmarks app.  
+  [GitHub Repo](https://github.com/amitmerchant1990/linksnatch)
+  **Shaarli** – personal, minimalist, self-hosted bookmarking service.
+  [GitHub Repo](https://github.com/shaarli/Shaarli)
+  **sftpgo** – A simple, secure, and fast SFTP server with a web-based file manager.  
+  [GitHub Repo](https://github.com/drakkan/sftpgo)
 
 ---
+
 
 ## 🚀 How to Add This Store to Umbrel
 
 1. Open your Umbrel dashboard.  
 2. Go to **App Store > Add Custom App Store**.  
 3. Paste the GitHub URL of this repo:  
-   `https://github.com/JaberQayad/hollat`.  
+   `https://github.com/JaberQayad/hollat.git`
 4. Browse and install apps directly from Hollat.
 
 ---
