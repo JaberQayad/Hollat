@@ -16,11 +16,11 @@ This store includes apps that I find useful and wanted to make easily accessible
 
 ## 📦 Current Apps
 
-  [Snippet Box](https://github.com/pawelmalak/snippet-box) - Manage your code snippets effortlessly.
-  [OpenGist](https://github.com/thomiceli/opengist) - Self-hosted Gist service.
-  [LinkSnatch](https://github.com/amitmerchant1990/linksnatch) - Simple bookmarks app.
-  [Shaarli](https://github.com/shaarli/Shaarli) - personal, minimalist, self-hosted bookmarking service.
-  [SFTPGo](https://github.com/drakkan/sftpgo) - A simple, secure, and fast SFTP server with a web-based file manager.
+ - [Snippet Box](https://github.com/pawelmalak/snippet-box) - Manage your code snippets effortlessly.
+ - [OpenGist](https://github.com/thomiceli/opengist) - Self-hosted Gist service.
+ - [LinkSnatch](https://github.com/amitmerchant1990/linksnatch) - Simple bookmarks app.
+ - [Shaarli](https://github.com/shaarli/Shaarli) - personal, minimalist, self-hosted bookmarking service.
+ - [SFTPGo](https://github.com/drakkan/sftpgo) - A simple, secure, and fast SFTP server with a web-based file manager.
 
 ---
 
