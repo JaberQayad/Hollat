@@ -1,0 +1,29 @@
+manifestVersion: 1
+id: hollat-audiobookshelf
+name: Audiobookshelf
+tagline: Self-hosted audiobook and podcast server with a beautiful interface
+icon: https://getumbrel.github.io/umbrel-apps-gallery/audiobookshelf/icon.svg
+category: Entertainment
+version: "0.6.5"
+port: 13378
+description: >-
+  Audiobookshelf is a self-hosted audiobook and podcast server that allows you to
+  organize, stream, and manage your audiobook and podcast collection with a
+  beautiful and user-friendly interface.
+developer: advplyr
+website: https://audiobookshelf.github.io/
+submitter: Hollat
+submission:
+repo: https://github.com/advplyr/audiobookshelf
+support: https://github.com/advplyr/audiobookshelf/issues
+gallery:
+  - https://github.com/advplyr/audiobookshelf/blob/master/images/DemoLibrary.png?raw=true
+  - https://github.com/advplyr/audiobookshelf/blob/master/images/LibraryStreamSquare.png?raw=true
+  - https://noted.lol/content/images/2022/04/audiobookshelf-podcast-library.png
+  - https://lafptocsuil8sakp.public.blob.vercel-storage.com/screenshot/https-www-audiobookshelf-org-C3mhCz3M7OVb4Jn7YLGSB3NxFYzMZS.png
+releaseNotes: >-
+  Initial release for Hollat Umbrel Community App Store.
+dependencies: []
+path: ""
+defaultUsername: admin
+defaultPassword: admin

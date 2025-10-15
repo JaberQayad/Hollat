@@ -1,0 +1,14 @@
+version: '3.9'
+services:
+  audiobookshelf:
+    image: ghcr.io/advplyr/audiobookshelf:latest
+    ports:
+      - 13378:80
+    volumes:
+      - </path/to/audiobooks>:/audiobooks
+      - </path/to/podcasts>:/podcasts
+      - </path/to/config>:/config
+      - </path/to/metadata>:/metadata
+    environment:
+      - TZ=Europe/Berlin # Set your timezone
+    restart: unless-stopped

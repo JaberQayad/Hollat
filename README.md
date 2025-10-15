@@ -22,6 +22,7 @@ This store includes apps that I find useful and wanted to make easily accessible
  - [Shaarli](https://github.com/shaarli/Shaarli) - personal, minimalist, self-hosted bookmarking service.
  - [SFTPGo](https://github.com/drakkan/sftpgo) - A simple, secure, and fast SFTP server with a web-based file manager.
  - [Draw.io](https://github.com/jgraph/drawio) - Online diagramming application.
+ - [Audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server with a beautiful interface.
 
 
 ---
