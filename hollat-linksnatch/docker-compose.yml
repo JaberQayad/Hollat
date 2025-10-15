@@ -1,0 +1,6 @@
+version: "3.3"
+services:
+  linksnatch:
+    image: varunsridharan/linksnatch:latest
+    ports:
+      - 3012:3000

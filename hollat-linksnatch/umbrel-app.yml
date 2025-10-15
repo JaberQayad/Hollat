@@ -1,0 +1,28 @@
+
+manifestVersion: 1
+id: hollat-linksnatch
+name: LinkSnatch 
+tagline: An effortlessly simple bookmarks app that lets you save the links on your device on the go.
+icon: https://varunsridharan.github.io/linksnatch/images/logo.png
+category: Utilities
+version: "1.0.0"
+port: 3012
+description: >-
+  LinkSnatch is a simple and easy-to-use bookmarks application that allows you
+  to save and manage your favorite links on your device. With its user-friendly
+  interface, you can quickly add, edit, and delete bookmarks as needed.
+developer: amitmerchant
+website: https://linksnatch.pages.dev/
+submitter: Hollat
+submission: https://github.com/JaberQayad/hollat-linksnatch
+repo: https://github.com/amitmerchant1990/linksnatch
+support: https://github.com/amitmerchant1990/linksnatch/issues
+gallery:
+  - https://github.com/amitmerchant1990/linksnatch/raw/main/public/linksnatch-cover.png
+  - https://noted.lol/content/images/2023/02/linksnatch-self-hosted-noted.lol.png
+releaseNotes: >-
+  Initial release for Hollat Umbrel Community App Store.
+dependencies: []
+path: ""
+defaultUsername: admin
+defaultPassword: admin
