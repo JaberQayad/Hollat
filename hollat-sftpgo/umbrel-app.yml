@@ -1,0 +1,32 @@
+
+# sftpgo umbrel-app.yml
+manifestVersion: 1
+id: hollat-sftpgo
+name: SFTPGo
+tagline: Fully featured SFTP server with a modern web interface
+icon: https://avatars.githubusercontent.com/u/67620845?s=200&v=4
+category: Utilities
+version: "2.5.3"
+port: 2022
+description: >-
+  SFTPGo is a fully featured SFTP server that supports various protocols and
+  authentication methods. It comes with a modern web interface for easy
+  management.
+developer: Drakkan
+website: https://sftpgo.com/
+submitter: Hollat
+submission: https://github.com/JaberQayad/hollat-sftpgo
+repo: https://github.com/drakkan/sftpgo
+support: https://github.com/drakkan/sftpgo/issues
+gallery:
+  - https://raw.githubusercontent.com/drakkan/sftpgo/main/docs/images/dashboard.png
+  - https://raw.githubusercontent.com/drakkan/sftpgo/main/docs/images/users.png
+  - https://raw.githubusercontent.com/drakkan/sftpgo/main/docs/images/settings.png
+  - https://raw.githubusercontent.com/drakkan/sftpgo/main/docs/images/logs.png
+releaseNotes: >-
+  Initial release for Hollat Umbrel Community App Store.
+dependencies: []
+path: ""
+defaultUsername: admin
+defaultPassword: admin
+# End of hollat-sftpgo/umbrel-app.yml
