@@ -1,0 +1,10 @@
+version: "3.3"
+services:
+  drawio:
+    container_name: drawio
+    image: jgraph/drawio
+    ports:
+      - 8121:8080
+    volumes:
+      - ./data:/opt/drawio/data
+    restart: unless-stopped

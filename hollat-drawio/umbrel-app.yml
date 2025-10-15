@@ -1,0 +1,30 @@
+manifestVersion: 1
+id: hollat-drawio
+name: draw.io
+tagline: Online diagramming application
+icon: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/2048px-Diagrams.net_Logo.svg.png
+category: Productivity
+version: "20.4.3"
+port: 8121
+description: >-
+  draw.io (also known as diagrams.net) is a free, open-source diagramming
+  application that allows you to create a wide range of diagrams, including
+  flowcharts, network diagrams, UML diagrams, and more. It offers a user-friendly
+  interface and a variety of templates and shapes to help you get started quickly.
+developer: JGraph Ltd
+website: https://www.diagrams.net/
+submitter: Hollat
+submission: https://github.com/JaberQayad/hollat-drawio
+repo: https://github.com/jgraph/drawio
+support: https://github.com/jgraph/drawio/issues
+gallery:
+  - https://ubunlog.com/wp-content/uploads/2020/05/about-draw-io.png
+  - https://www.drawio.com/assets/svg/home-dia1.svg
+  - https://www.drawio.com/assets/img/blog/simple-mode.png
+  - https://static-blog.onlyoffice.com/wp-content/uploads/2022/03/drawio_interface_mindmap-1200x680-1.png
+releaseNotes: >-
+  Initial release for Hollat Umbrel Community App Store.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""

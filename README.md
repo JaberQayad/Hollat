@@ -21,6 +21,8 @@ This store includes apps that I find useful and wanted to make easily accessible
  - [LinkSnatch](https://github.com/amitmerchant1990/linksnatch) - Simple bookmarks app.
  - [Shaarli](https://github.com/shaarli/Shaarli) - personal, minimalist, self-hosted bookmarking service.
  - [SFTPGo](https://github.com/drakkan/sftpgo) - A simple, secure, and fast SFTP server with a web-based file manager.
+ - [Draw.io](https://github.com/jgraph/drawio) - Online diagramming application.
+
 
 ---
 
