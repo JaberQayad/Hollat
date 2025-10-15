@@ -22,9 +22,9 @@ This store includes apps that I find useful and wanted to make easily accessible
   [GitHub Repo](https://github.com/thomiceli/opengist)
 - **LinkSnatch** – Simple bookmarks app.  
   [GitHub Repo](https://github.com/amitmerchant1990/linksnatch)
-  **Shaarli** – personal, minimalist, self-hosted bookmarking service.
+- **Shaarli** – personal, minimalist, self-hosted bookmarking service.
   [GitHub Repo](https://github.com/shaarli/Shaarli)
-  **sftpgo** – A simple, secure, and fast SFTP server with a web-based file manager.  
+- **SFTPGo** – A simple, secure, and fast SFTP server with a web-based file manager.  
   [GitHub Repo](https://github.com/drakkan/sftpgo)
 
 ---
